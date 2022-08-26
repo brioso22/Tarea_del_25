@@ -1,0 +1,13 @@
+C:\Users\David\source\repos\Ejemplo semana 5\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.exe.config
+C:\Users\David\source\repos\Ejemplo semana 5\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.exe
+C:\Users\David\source\repos\Ejemplo semana 5\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.pdb
+C:\Users\David\source\repos\Ejemplo semana 5\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Ejemplo semana 5\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.exe
+C:\Users\David\source\repos\Ejemplo semana 5\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.pdb
+C:\Users\HP\Downloads\Ejemplo semana 5\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.exe.config
+C:\Users\HP\Downloads\Ejemplo semana 5\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.exe
+C:\Users\HP\Downloads\Ejemplo semana 5\Ejemplo semana 5\bin\Debug\Ejemplo semana 5.pdb
+C:\Users\HP\Downloads\Ejemplo semana 5\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Ejemplo semana 5\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Ejemplo semana 5\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.exe
+C:\Users\HP\Downloads\Ejemplo semana 5\Ejemplo semana 5\obj\Debug\Ejemplo semana 5.pdb
